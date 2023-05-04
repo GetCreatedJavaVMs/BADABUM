@@ -1,2 +1,3 @@
-# BADABUM
-mama.sys
+# BADABUM project
+* 10 work
+##### sys
