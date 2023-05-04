@@ -1,4 +1,4 @@
-﻿namespace DemidenkoProject;
+﻿namespace RomanProject;
 class Program
 {
     static void Main(string[] args)
@@ -12,7 +12,6 @@ class Program
             Console.Write(element + " ");
         }
 
-        // Сортировка методом пузырька
         for (int i = 0; i < array.Length - 1; i++)
         {
             for (int j = 0; j < array.Length - i - 1; j++)
